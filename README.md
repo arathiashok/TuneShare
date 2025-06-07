@@ -1,4 +1,4 @@
-# 🎵 TuneShare
+# 🎵 TuneShare - Mini Project
 
 A simple PHP-based web application that allows users to browse music albums, view songs, and generate QR codes for sharing. Built with PHP, MySQL, and jQuery.
 
