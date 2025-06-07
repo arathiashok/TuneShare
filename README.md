@@ -19,4 +19,4 @@ A simple PHP-based web application that allows users to browse music albums, vie
 - **Frontend:** HTML, CSS, jQuery (v1.4.1)
 - **Backend:** PHP (mysqli)
 - **Database:** MySQL
-- **QR Library:** (https://goqr.me/api/doc/create-qr-code/)
+- **QR code API:** (https://goqr.me/api/doc/create-qr-code/)
